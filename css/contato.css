@@ -32,7 +32,7 @@
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
-    background: url("/alurabooks/img/Email.svg") no-repeat;
+    background: url("C:/Users/felpe/OneDrive/Documentos/Estudos/formacao_HTML_&_CSS/HTML_&_CSS/mobile-first/alurabooks/img/Email.svg") no-repeat;
     padding-left: 2em;
 }
 
